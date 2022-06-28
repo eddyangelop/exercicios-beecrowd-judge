@@ -1,0 +1,15 @@
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\bin\Debug\net6.0\exercicioUri_1002.exe
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\bin\Debug\net6.0\exercicioUri_1002.deps.json
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\bin\Debug\net6.0\exercicioUri_1002.runtimeconfig.json
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\bin\Debug\net6.0\exercicioUri_1002.dll
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\bin\Debug\net6.0\exercicioUri_1002.pdb
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\obj\Debug\net6.0\exercicioUri_1002.csproj.AssemblyReference.cache
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\obj\Debug\net6.0\exercicioUri_1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\obj\Debug\net6.0\exercicioUri_1002.AssemblyInfoInputs.cache
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\obj\Debug\net6.0\exercicioUri_1002.AssemblyInfo.cs
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\obj\Debug\net6.0\exercicioUri_1002.csproj.CoreCompileInputs.cache
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\obj\Debug\net6.0\exercicioUri_1002.dll
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\obj\Debug\net6.0\refint\exercicioUri_1002.dll
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\obj\Debug\net6.0\exercicioUri_1002.pdb
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\obj\Debug\net6.0\exercicioUri_1002.genruntimeconfig.cache
+C:\Users\Eddya\source\repos\exercicioUri_1002\exercicioUri_1002\obj\Debug\net6.0\ref\exercicioUri_1002.dll
