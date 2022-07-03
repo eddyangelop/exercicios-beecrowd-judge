@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1021_notasEMoedas_uri", "1021_notasEMoedas_uri\1021_notasEMoedas_uri.csproj", "{FDE565D4-1D3C-4FC7-BFE5-AC3BFD5756F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE565D4-1D3C-4FC7-BFE5-AC3BFD5756F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE565D4-1D3C-4FC7-BFE5-AC3BFD5756F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE565D4-1D3C-4FC7-BFE5-AC3BFD5756F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE565D4-1D3C-4FC7-BFE5-AC3BFD5756F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {710DD522-D13A-4697-A720-62ECAD38106C}
+	EndGlobalSection
+EndGlobal

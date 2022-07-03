@@ -1,0 +1,15 @@
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\bin\Debug\net6.0\1018_ Cédulas_uri.exe
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\bin\Debug\net6.0\1018_ Cédulas_uri.deps.json
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\bin\Debug\net6.0\1018_ Cédulas_uri.runtimeconfig.json
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\bin\Debug\net6.0\1018_ Cédulas_uri.dll
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\bin\Debug\net6.0\1018_ Cédulas_uri.pdb
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\obj\Debug\net6.0\1018_ Cédulas_uri.csproj.AssemblyReference.cache
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\obj\Debug\net6.0\1018_ Cédulas_uri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\obj\Debug\net6.0\1018_ Cédulas_uri.AssemblyInfoInputs.cache
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\obj\Debug\net6.0\1018_ Cédulas_uri.AssemblyInfo.cs
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\obj\Debug\net6.0\1018_ Cédulas_uri.csproj.CoreCompileInputs.cache
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\obj\Debug\net6.0\1018_ Cédulas_uri.dll
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\obj\Debug\net6.0\refint\1018_ Cédulas_uri.dll
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\obj\Debug\net6.0\1018_ Cédulas_uri.pdb
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\obj\Debug\net6.0\1018_ Cédulas_uri.genruntimeconfig.cache
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosUriJudge\1018_ Cédulas_uri\1018_ Cédulas_uri\obj\Debug\net6.0\ref\1018_ Cédulas_uri.dll

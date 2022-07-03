@@ -1,0 +1,15 @@
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\bin\Debug\net6.0\1061_tempoDeUmEvento_uri.exe
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\bin\Debug\net6.0\1061_tempoDeUmEvento_uri.deps.json
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\bin\Debug\net6.0\1061_tempoDeUmEvento_uri.runtimeconfig.json
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\bin\Debug\net6.0\1061_tempoDeUmEvento_uri.dll
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\bin\Debug\net6.0\1061_tempoDeUmEvento_uri.pdb
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\obj\Debug\net6.0\1061_tempoDeUmEvento_uri.csproj.AssemblyReference.cache
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\obj\Debug\net6.0\1061_tempoDeUmEvento_uri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\obj\Debug\net6.0\1061_tempoDeUmEvento_uri.AssemblyInfoInputs.cache
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\obj\Debug\net6.0\1061_tempoDeUmEvento_uri.AssemblyInfo.cs
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\obj\Debug\net6.0\1061_tempoDeUmEvento_uri.csproj.CoreCompileInputs.cache
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\obj\Debug\net6.0\1061_tempoDeUmEvento_uri.dll
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\obj\Debug\net6.0\refint\1061_tempoDeUmEvento_uri.dll
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\obj\Debug\net6.0\1061_tempoDeUmEvento_uri.pdb
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\obj\Debug\net6.0\1061_tempoDeUmEvento_uri.genruntimeconfig.cache
+C:\Users\Eddya\OneDrive\Área de Trabalho\repos\exerciciosAulas\1061_tempoDeUmEvento_uri\1061_tempoDeUmEvento_uri\obj\Debug\net6.0\ref\1061_tempoDeUmEvento_uri.dll
