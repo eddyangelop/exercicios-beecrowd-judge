@@ -1,0 +1,15 @@
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\obj\Debug\net6.0\1038_Lanche_uri.csproj.AssemblyReference.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\obj\Debug\net6.0\1038_Lanche_uri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\obj\Debug\net6.0\1038_Lanche_uri.AssemblyInfoInputs.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\obj\Debug\net6.0\1038_Lanche_uri.AssemblyInfo.cs
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\obj\Debug\net6.0\1038_Lanche_uri.csproj.CoreCompileInputs.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\bin\Debug\net6.0\1038_Lanche_uri.exe
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\bin\Debug\net6.0\1038_Lanche_uri.deps.json
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\bin\Debug\net6.0\1038_Lanche_uri.runtimeconfig.json
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\bin\Debug\net6.0\1038_Lanche_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\bin\Debug\net6.0\1038_Lanche_uri.pdb
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\obj\Debug\net6.0\1038_Lanche_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\obj\Debug\net6.0\refint\1038_Lanche_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\obj\Debug\net6.0\1038_Lanche_uri.pdb
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\obj\Debug\net6.0\1038_Lanche_uri.genruntimeconfig.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1038_Lanche_uri\1038_Lanche_uri\obj\Debug\net6.0\ref\1038_Lanche_uri.dll

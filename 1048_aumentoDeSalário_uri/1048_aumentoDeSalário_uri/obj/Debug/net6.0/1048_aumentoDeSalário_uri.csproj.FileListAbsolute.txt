@@ -1,0 +1,15 @@
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\bin\Debug\net6.0\1048_aumentoDeSalário_uri.exe
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\bin\Debug\net6.0\1048_aumentoDeSalário_uri.deps.json
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\bin\Debug\net6.0\1048_aumentoDeSalário_uri.runtimeconfig.json
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\bin\Debug\net6.0\1048_aumentoDeSalário_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\bin\Debug\net6.0\1048_aumentoDeSalário_uri.pdb
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\obj\Debug\net6.0\1048_aumentoDeSalário_uri.csproj.AssemblyReference.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\obj\Debug\net6.0\1048_aumentoDeSalário_uri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\obj\Debug\net6.0\1048_aumentoDeSalário_uri.AssemblyInfoInputs.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\obj\Debug\net6.0\1048_aumentoDeSalário_uri.AssemblyInfo.cs
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\obj\Debug\net6.0\1048_aumentoDeSalário_uri.csproj.CoreCompileInputs.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\obj\Debug\net6.0\1048_aumentoDeSalário_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\obj\Debug\net6.0\refint\1048_aumentoDeSalário_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\obj\Debug\net6.0\1048_aumentoDeSalário_uri.pdb
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\obj\Debug\net6.0\1048_aumentoDeSalário_uri.genruntimeconfig.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1048_aumentoDeSalário_uri\1048_aumentoDeSalário_uri\obj\Debug\net6.0\ref\1048_aumentoDeSalário_uri.dll

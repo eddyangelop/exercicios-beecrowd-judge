@@ -1,0 +1,15 @@
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\bin\Debug\net6.0\1046_tempoDeJogo_uri.exe
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\bin\Debug\net6.0\1046_tempoDeJogo_uri.deps.json
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\bin\Debug\net6.0\1046_tempoDeJogo_uri.runtimeconfig.json
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\bin\Debug\net6.0\1046_tempoDeJogo_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\bin\Debug\net6.0\1046_tempoDeJogo_uri.pdb
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\obj\Debug\net6.0\1046_tempoDeJogo_uri.csproj.AssemblyReference.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\obj\Debug\net6.0\1046_tempoDeJogo_uri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\obj\Debug\net6.0\1046_tempoDeJogo_uri.AssemblyInfoInputs.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\obj\Debug\net6.0\1046_tempoDeJogo_uri.AssemblyInfo.cs
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\obj\Debug\net6.0\1046_tempoDeJogo_uri.csproj.CoreCompileInputs.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\obj\Debug\net6.0\1046_tempoDeJogo_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\obj\Debug\net6.0\refint\1046_tempoDeJogo_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\obj\Debug\net6.0\1046_tempoDeJogo_uri.pdb
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\obj\Debug\net6.0\1046_tempoDeJogo_uri.genruntimeconfig.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1046_tempoDeJogo_uri\1046_tempoDeJogo_uri\obj\Debug\net6.0\ref\1046_tempoDeJogo_uri.dll
