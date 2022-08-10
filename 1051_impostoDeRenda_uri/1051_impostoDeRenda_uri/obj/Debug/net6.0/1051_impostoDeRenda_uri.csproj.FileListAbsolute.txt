@@ -1,0 +1,15 @@
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\bin\Debug\net6.0\1051_impostoDeRenda_uri.exe
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\bin\Debug\net6.0\1051_impostoDeRenda_uri.deps.json
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\bin\Debug\net6.0\1051_impostoDeRenda_uri.runtimeconfig.json
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\bin\Debug\net6.0\1051_impostoDeRenda_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\bin\Debug\net6.0\1051_impostoDeRenda_uri.pdb
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\obj\Debug\net6.0\1051_impostoDeRenda_uri.csproj.AssemblyReference.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\obj\Debug\net6.0\1051_impostoDeRenda_uri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\obj\Debug\net6.0\1051_impostoDeRenda_uri.AssemblyInfoInputs.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\obj\Debug\net6.0\1051_impostoDeRenda_uri.AssemblyInfo.cs
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\obj\Debug\net6.0\1051_impostoDeRenda_uri.csproj.CoreCompileInputs.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\obj\Debug\net6.0\1051_impostoDeRenda_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\obj\Debug\net6.0\refint\1051_impostoDeRenda_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\obj\Debug\net6.0\1051_impostoDeRenda_uri.pdb
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\obj\Debug\net6.0\1051_impostoDeRenda_uri.genruntimeconfig.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1051_impostoDeRenda_uri\1051_impostoDeRenda_uri\obj\Debug\net6.0\ref\1051_impostoDeRenda_uri.dll
