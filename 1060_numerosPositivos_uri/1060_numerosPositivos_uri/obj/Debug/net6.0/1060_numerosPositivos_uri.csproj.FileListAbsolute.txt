@@ -1,0 +1,15 @@
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\bin\Debug\net6.0\1060_numerosPositivos_uri.exe
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\bin\Debug\net6.0\1060_numerosPositivos_uri.deps.json
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\bin\Debug\net6.0\1060_numerosPositivos_uri.runtimeconfig.json
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\bin\Debug\net6.0\1060_numerosPositivos_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\bin\Debug\net6.0\1060_numerosPositivos_uri.pdb
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\obj\Debug\net6.0\1060_numerosPositivos_uri.csproj.AssemblyReference.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\obj\Debug\net6.0\1060_numerosPositivos_uri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\obj\Debug\net6.0\1060_numerosPositivos_uri.AssemblyInfoInputs.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\obj\Debug\net6.0\1060_numerosPositivos_uri.AssemblyInfo.cs
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\obj\Debug\net6.0\1060_numerosPositivos_uri.csproj.CoreCompileInputs.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\obj\Debug\net6.0\1060_numerosPositivos_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\obj\Debug\net6.0\refint\1060_numerosPositivos_uri.dll
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\obj\Debug\net6.0\1060_numerosPositivos_uri.pdb
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\obj\Debug\net6.0\1060_numerosPositivos_uri.genruntimeconfig.cache
+C:\Users\Eddya\source\repos\exerciciosBeecrowd_Judge\1060_numerosPositivos_uri\1060_numerosPositivos_uri\obj\Debug\net6.0\ref\1060_numerosPositivos_uri.dll
