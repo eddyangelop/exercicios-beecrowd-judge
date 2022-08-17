@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1113_crescenteEDecrescente_uri", "1113_crescenteEDecrescente_uri\1113_crescenteEDecrescente_uri.csproj", "{434DE1D0-B665-424E-9517-2C37B0064E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{434DE1D0-B665-424E-9517-2C37B0064E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434DE1D0-B665-424E-9517-2C37B0064E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434DE1D0-B665-424E-9517-2C37B0064E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434DE1D0-B665-424E-9517-2C37B0064E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F2A4910-47CC-4EF0-8E33-8F92DCD7A04D}
+	EndGlobalSection
+EndGlobal

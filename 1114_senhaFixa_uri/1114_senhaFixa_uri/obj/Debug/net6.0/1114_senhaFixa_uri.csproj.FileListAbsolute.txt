@@ -1,0 +1,15 @@
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\bin\Debug\net6.0\1114_senhaFixa_uri.exe
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\bin\Debug\net6.0\1114_senhaFixa_uri.deps.json
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\bin\Debug\net6.0\1114_senhaFixa_uri.runtimeconfig.json
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\bin\Debug\net6.0\1114_senhaFixa_uri.dll
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\bin\Debug\net6.0\1114_senhaFixa_uri.pdb
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\obj\Debug\net6.0\1114_senhaFixa_uri.csproj.AssemblyReference.cache
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\obj\Debug\net6.0\1114_senhaFixa_uri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\obj\Debug\net6.0\1114_senhaFixa_uri.AssemblyInfoInputs.cache
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\obj\Debug\net6.0\1114_senhaFixa_uri.AssemblyInfo.cs
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\obj\Debug\net6.0\1114_senhaFixa_uri.csproj.CoreCompileInputs.cache
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\obj\Debug\net6.0\1114_senhaFixa_uri.dll
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\obj\Debug\net6.0\refint\1114_senhaFixa_uri.dll
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\obj\Debug\net6.0\1114_senhaFixa_uri.pdb
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\obj\Debug\net6.0\1114_senhaFixa_uri.genruntimeconfig.cache
+C:\Users\Eddya\source\repos\exerciciosAulas\1114_senhaFixa_uri\1114_senhaFixa_uri\obj\Debug\net6.0\ref\1114_senhaFixa_uri.dll
